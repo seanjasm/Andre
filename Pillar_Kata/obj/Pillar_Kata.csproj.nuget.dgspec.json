@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sean.Mattis\\Desktop\\Grocery_Pillar_Kata\\Pillar_Kata\\Pillar_Kata.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sean.Mattis\\Desktop\\Grocery_Pillar_Kata\\Pillar_Kata\\Pillar_Kata.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sean.Mattis\\Desktop\\Grocery_Pillar_Kata\\Pillar_Kata\\Pillar_Kata.csproj",
+        "projectName": "Pillar_Kata",
+        "projectPath": "C:\\Users\\Sean.Mattis\\Desktop\\Grocery_Pillar_Kata\\Pillar_Kata\\Pillar_Kata.csproj",
+        "packagesPath": "C:\\Users\\Sean.Mattis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sean.Mattis\\Desktop\\Grocery_Pillar_Kata\\Pillar_Kata\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sean.Mattis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
